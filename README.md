@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 Hi, I'm Kalyani Anwekar
 
 🔭 I’m currently working on: Building end-to-end data analytics projects using SQL, Python, and Power BI
